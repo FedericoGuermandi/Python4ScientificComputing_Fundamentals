@@ -4,7 +4,7 @@ os.chdir("/Users/Fede/Documents/Polimi/EETBS/Canopy")
 import wallCalculation_Guermandi as FC
 
 paral=["insulation", "wood stud"]
-farea=[0.75, 0.25]
+farea=[0.7, 0.3]
 serie=["wood lapped", "wood sheeting", "gypsum wallboard", "100 mm common brick"]
 roof = ["urethane rigid foam 50 mm", "100 mm common brick", "asphalt single roofing"]
 door = ["door"]
